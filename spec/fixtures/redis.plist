@@ -11,7 +11,7 @@
       <string>An interesting little data structure server.</string>
 
       <key>Port</key>
-      <integer>16379</integer>
+      <integer>6379</integer>
     </dict>
 
     <key>ProgramArguments</key>
